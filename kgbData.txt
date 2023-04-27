@@ -1,0 +1,3 @@
+year,number_of_officers
+1937,25000
+1938,32000
